@@ -1,0 +1,325 @@
+WEBVTT
+
+00:00.200 --> 00:04.650
+In this video we're talking about divisibility and some of the tricks that we use to say whether or
+
+00:04.650 --> 00:09.750
+not a number is divisible by two three four five six seven eight nine or ten.
+
+00:09.750 --> 00:12.870
+There are a lot more divisibility rules than we're going to cover here.
+
+00:13.020 --> 00:16.260
+But these are the ones that you're going to use most commonly because we're going to be looking to see
+
+00:16.260 --> 00:20.030
+whether or not a number is divisible by some of these lower numbers here.
+
+00:20.130 --> 00:23.170
+So we're going to talk about the divisibility rules first for two.
+
+00:23.220 --> 00:26.490
+This one's going to be the most obvious out of all of the divisibility rules.
+
+00:26.550 --> 00:30.880
+It's just if the number is an even number then it's going to be divisible by two.
+
+00:30.900 --> 00:37.230
+The way that you know for sure if it's even is if the last digit is 0 2 4 6 or 8.
+
+00:37.230 --> 00:41.150
+So if the last digit is even then the number is divisible by 2.
+
+00:41.220 --> 00:48.510
+So because all of these numbers here 21 26 and 128 have an even last digit 0 is an even number.
+
+00:48.630 --> 00:49.820
+Six is an even number.
+
+00:49.860 --> 00:52.740
+Eight is an even number and is included in the set.
+
+00:52.740 --> 00:54.830
+0 2 4 6 or 8.
+
+00:54.870 --> 00:57.470
+We know that all three of these numbers are divisible by two.
+
+00:57.480 --> 01:01.230
+So we can go ahead and say that these are all divisible by two.
+
+01:01.230 --> 01:03.440
+Now what about divisibility by three.
+
+01:03.480 --> 01:07.800
+Well in that case the trick that we're going to use is we're going to add up all of the digits in our
+
+01:07.800 --> 01:10.890
+number and see if the sum is divisible by three.
+
+01:10.890 --> 01:16.040
+So in this first number here 120 we're going to add up the digits the digits are 1 2 and 0.
+
+01:16.040 --> 01:21.720
+So we're going to add those together one plus two plus zero is three and three is divisible by three.
+
+01:21.720 --> 01:24.100
+So 120 is divisible by three.
+
+01:24.240 --> 01:29.620
+If we add up the digits in 126 one plus two is three three plus six is nine.
+
+01:29.730 --> 01:31.410
+Nine is divisible by three.
+
+01:31.440 --> 01:34.440
+So 126 is also divisible by three.
+
+01:34.500 --> 01:41.730
+If we look at 128 we get one plus two is three three Plus Eight is 11 11 is not evenly divisible by
+
+01:41.790 --> 01:46.650
+three we get three and two thirds three doesn't go evenly into 11.
+
+01:46.650 --> 01:51.120
+So that means that 128 is not divisible by three.
+
+01:51.120 --> 01:53.730
+What about the divisibility rule for 4.
+
+01:53.850 --> 01:58.020
+What we're going to do is look at the last two digits of the number and see if that number is divisible
+
+01:58.020 --> 01:58.890
+by 4.
+
+01:58.890 --> 02:01.630
+So in this example here we have the number 120.
+
+02:01.680 --> 02:03.610
+We're just going to look at the last two digits.
+
+02:03.810 --> 02:10.020
+In that case the last two digits is the number 20 since 20 is divisible by 4 forgoes and a twenty five
+
+02:10.020 --> 02:10.690
+times.
+
+02:10.710 --> 02:14.200
+That means that 120 is also divisible by fours.
+
+02:14.220 --> 02:16.120
+That one's going to be divisible by four.
+
+02:16.230 --> 02:22.530
+If we look at 126 we're only looking at the last two digits so we look at 26 is 26 evenly divisible
+
+02:22.530 --> 02:23.350
+by four.
+
+02:23.580 --> 02:24.040
+No.
+
+02:24.040 --> 02:26.210
+4 doesn't go evenly into 26.
+
+02:26.260 --> 02:30.370
+So 126 is not going to be divisible by 4.
+
+02:30.630 --> 02:37.620
+If we look at 128 we only look at the last two digits 28 and forgoes evenly into 28 it goes in seven
+
+02:37.620 --> 02:38.340
+times.
+
+02:38.340 --> 02:41.310
+So 128 will be divisible by four.
+
+02:41.400 --> 02:43.800
+Five is an easy one and should make sense to us.
+
+02:43.800 --> 02:47.660
+We're just looking for numbers that end in zero or in five.
+
+02:47.670 --> 02:54.480
+So one hundred twenty is divisible by five because the last digit is a zero but 126 and 128 are not
+
+02:54.480 --> 03:01.400
+divisible by five because the last digit is not a 5 or 0 6 and 8 are not 5 or 0.
+
+03:01.410 --> 03:04.170
+So these two numbers are not divisible by 5.
+
+03:04.290 --> 03:07.930
+Since the divisibility rules for two and three are pretty quick.
+
+03:08.040 --> 03:12.460
+We like to use those as test to figure out whether or not the number is divisible by 6.
+
+03:12.540 --> 03:20.370
+If the number is divisible by 2 and 3 then it's also divisible by 6 since 120 is divisible by 2 and
+
+03:20.370 --> 03:21.050
+3.
+
+03:21.060 --> 03:23.040
+We know it's also divisible by 6.
+
+03:23.190 --> 03:28.320
+And since 126 is a visible Bible 2 and 3 we know it's also divisible by 6.
+
+03:28.320 --> 03:35.710
+However since 128 is divisible by 2 but not by 3 it's not going to be divisible by 6.
+
+03:35.730 --> 03:39.360
+The rule for seven is a little bit harder to remember but here's what it is.
+
+03:39.360 --> 03:45.040
+We take the last digit in the numbers so for 120 we take 0 we multiply it by 5.
+
+03:45.060 --> 03:47.180
+So zero times 5 is zero.
+
+03:47.370 --> 03:50.130
+And then we add that result to the rest of the numbers.
+
+03:50.130 --> 03:52.480
+So here the rest of the number is 12.
+
+03:52.500 --> 03:58.830
+So we take 12 plus 0 and we get 12 is 12 that result divisible by seven.
+
+03:58.830 --> 03:59.730
+No it's not.
+
+03:59.730 --> 04:04.200
+Which means 120 is not going to be divisible by 7.
+
+04:04.200 --> 04:06.050
+Let's take an example that does work here.
+
+04:06.060 --> 04:07.740
+Let's look at 126.
+
+04:07.740 --> 04:12.020
+Again we take the last digit the last digit 6 we multiply that by 5.
+
+04:12.030 --> 04:16.270
+So six times five gives us 30 and then we add 30 to the rest of the number.
+
+04:16.290 --> 04:22.260
+So we take 12 plus 30 we get 42 and we say is 42 divisible by 7.
+
+04:22.260 --> 04:25.830
+And in fact it is seven goes into 42 six times.
+
+04:25.830 --> 04:26.780
+Exactly.
+
+04:26.790 --> 04:30.570
+So 126 is going to be divisible by seven.
+
+04:30.810 --> 04:35.040
+If we look at 128 we'll see that it won't work we'll take five times the last digit.
+
+04:35.040 --> 04:42.780
+So five times eight is 40 40 plus the rest of the number here 12 gives us 52 is 52 divisible by seven.
+
+04:42.780 --> 04:46.890
+No it's not so 128 is not going to be divisible by 7.
+
+04:46.890 --> 04:50.570
+The trick we use for divisibility by eight isn't really a trick at all.
+
+04:50.610 --> 04:55.410
+We're just looking to see if the last three digits of the number are divisible by eight.
+
+04:55.470 --> 04:58.180
+Not individually but together as a whole number.
+
+04:58.200 --> 05:02.260
+So because we're dealing with three digit numbers here we're looking at the whole number the last three
+
+05:02.260 --> 05:05.450
+digits so we say is one hundred twenty divisible by eight.
+
+05:05.470 --> 05:06.870
+In this case it's not really a trick.
+
+05:06.880 --> 05:10.990
+But if you had a number that was much larger in the thousands or the millions you could just take the
+
+05:10.990 --> 05:17.050
+last three digits of the number and say is 120 divisible by 8 so instead of dividing through the whole
+
+05:17.050 --> 05:19.280
+number just look at the last three digits.
+
+05:19.300 --> 05:22.070
+In this case 120 is divisible by 8.
+
+05:22.090 --> 05:24.310
+It goes in 15 times.
+
+05:24.310 --> 05:31.180
+So we're going to say yes 120 is divisible by eight which means it's also going to go evenly into 128
+
+05:31.420 --> 05:38.520
+but it's not going to go into 126 because 126 divided by 8 does not give you a whole number.
+
+05:38.650 --> 05:42.130
+But 128 divided by 8 does give you a whole number.
+
+05:42.130 --> 05:44.920
+The rule for nine is very similar to the rule for three.
+
+05:44.920 --> 05:50.410
+You just sum up the individual digits and if the sum is divisible by nine then the whole number is divisible
+
+05:50.410 --> 05:51.120
+by nine.
+
+05:51.310 --> 05:58.360
+So we add up the digits in 120 we say one plus two plus 0 gives us 3 3 is not divisible by 9.
+
+05:58.390 --> 06:05.710
+So 120 will not be divisible by 9 if we add up the digits in 126 we get one plus two is three three
+
+06:05.710 --> 06:07.070
+plus six is nine.
+
+06:07.180 --> 06:10.810
+Nine is divisible by nine it goes in one time obviously.
+
+06:10.810 --> 06:14.040
+So 126 will also be divisible by nine.
+
+06:14.200 --> 06:21.070
+Here if we take 128 we say one plus two is three three Plus Eight is 11 nine doesn't go into 11 evenly.
+
+06:21.190 --> 06:28.180
+So one twenty eight will not be divisible by nine and then 10 is really similar to the rule for five
+
+06:28.180 --> 06:29.680
+and it should be an easy one.
+
+06:29.770 --> 06:34.060
+It's just if the number ends in zero then the number will be divisible by 10.
+
+06:34.060 --> 06:39.410
+So 120 because it's last digit is a zero will be divisible by 10.
+
+06:39.580 --> 06:45.190
+But 126 ends in 6 zero and 128 ends in eight not 0.
+
+06:45.190 --> 06:47.480
+So those numbers will not be divisible by 10.
+
+06:47.590 --> 06:49.710
+So these are just some of the divisibility rules.
+
+06:49.750 --> 06:54.700
+There are many more but hopefully these ones will be quicker when you're trying to figure out whether
+
+06:54.700 --> 07:00.060
+a large number like these three are divisible by some of these smaller numbers like 2 through 10.

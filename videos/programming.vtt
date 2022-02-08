@@ -1,0 +1,256 @@
+WEBVTT
+
+00:00.360 --> 00:04.440
+In this video we're talking about how to find the least common multiple of a set of numbers and the
+
+00:04.440 --> 00:08.760
+least common multiple is just the smallest value that two numbers will go into.
+
+00:08.760 --> 00:14.730
+So to take a really easy example if we have two numbers two and three and we want to find the least
+
+00:14.730 --> 00:20.360
+common multiple We have to figure out what's the smallest number that 2 and 3 both divide into.
+
+00:20.400 --> 00:24.660
+So if we think about that per second we can probably come up with the fact the least common multiple
+
+00:24.660 --> 00:31.200
+of these two numbers is six because three goes into six two times and two goes into six three times.
+
+00:31.200 --> 00:35.880
+And there's no value smaller than 6 that 2 and 3 both divide into evenly.
+
+00:35.880 --> 00:42.000
+Now in this particular example two times three gives us six but you can't find the least common multiple
+
+00:42.060 --> 00:44.770
+Just by multiplying all of your values together.
+
+00:44.850 --> 00:49.530
+If you multiply all the values together you'll certainly get a multiple but you won't necessarily get
+
+00:49.530 --> 00:50.910
+the least common multiple.
+
+00:50.910 --> 00:58.050
+An example of this would be if I had the three numbers for 5 and 10 and I wanted to find the least common
+
+00:58.050 --> 00:58.720
+multiple.
+
+00:58.770 --> 01:06.430
+If I just multiply all three of them together four times five gives me 20 20 times 10 it gives me 200.
+
+01:06.450 --> 01:12.120
+And so if I say that the least common multiple is 200 I'm actually wrong because 20 is the least common
+
+01:12.120 --> 01:12.710
+multiple.
+
+01:12.720 --> 01:19.880
+And the reason is because four times five gives me 20 and 10 also happens to go into 20 evenly goes
+
+01:19.880 --> 01:21.180
+in 22 times.
+
+01:21.180 --> 01:26.430
+So 20 is the least common multiple of these three numbers not just the product of these three.
+
+01:26.430 --> 01:31.960
+So if I can't just multiply my numbers together how am I supposed to find that he's come multiple.
+
+01:32.010 --> 01:36.380
+Well the way that we do it is by reducing all of our numbers to their prime factors.
+
+01:36.390 --> 01:40.560
+And once we've reduced them to their prime factors then we can pull out the values that we'll have to
+
+01:40.560 --> 01:44.550
+multiply together to get the least common multiple of the original numbers.
+
+01:44.550 --> 01:51.180
+So for example in this set I have 30 75 and 80 and I want to find the least common multiple of these
+
+01:51.180 --> 01:51.990
+three numbers.
+
+01:51.990 --> 01:57.720
+So I want to reduce each of them to their prime factor so with 30 I can start with 30 is the product
+
+01:57.810 --> 02:05.670
+of three and 10 and 10 is the product of 2 and 5 2 3 and 5 here are all prime numbers.
+
+02:05.670 --> 02:09.770
+So I've reduced 30 to it's prime factors now for 75.
+
+02:09.780 --> 02:13.730
+I can say three times 25 for 25.
+
+02:13.740 --> 02:18.660
+I can say five times 5 3 5 5 are all prime numbers.
+
+02:18.720 --> 02:25.510
+So I know that overdue 75 to it's prime factors for 80 here will do eight times ten.
+
+02:25.800 --> 02:33.720
+Eight is going to be two and four and four is going to be two and two ten is going to be two and five.
+
+02:33.720 --> 02:35.190
+These are all prime numbers here.
+
+02:35.340 --> 02:36.440
+So I'm down to the bottom.
+
+02:36.510 --> 02:40.530
+Now I want to pull these together so here for 30 I have two three and five.
+
+02:40.530 --> 02:45.930
+So I have two of the first three to the first and five to the first power for seventy five.
+
+02:45.930 --> 02:50.700
+I have three to the first but I have five squared because I have two factors of five.
+
+02:50.700 --> 02:53.880
+So three times five squared.
+
+02:53.880 --> 02:59.460
+And then here for me I have two to the fourth because I have one two three four factors of two.
+
+02:59.460 --> 03:02.790
+So two to the fourth power times five.
+
+03:02.790 --> 03:06.070
+Now at this point I want to look for the greatest value of each of these factors.
+
+03:06.120 --> 03:09.510
+So I have factors of two three and five for two.
+
+03:09.510 --> 03:12.780
+I have two of the first power and I have two to the fourth power.
+
+03:12.780 --> 03:17.990
+I have to take the greatest value of the factor of two so I have to take two to the fourth.
+
+03:18.000 --> 03:20.160
+So two to the fourth there.
+
+03:20.160 --> 03:24.480
+Now I want to look my factors of three of three to the first power here and three to the first power
+
+03:24.480 --> 03:26.630
+here so I take three to the first.
+
+03:26.640 --> 03:28.020
+So three for five.
+
+03:28.020 --> 03:30.930
+I have five five squared and five.
+
+03:30.930 --> 03:33.950
+I have to take five square because that's my greatest value.
+
+03:34.110 --> 03:35.670
+So five squared.
+
+03:35.670 --> 03:41.630
+Now at this point the product of these three is going to be my least common multiple of 30 75 and 80.
+
+03:41.670 --> 03:46.740
+So I just need to multiply out here to get my final answer to to the fourth is going to be 16.
+
+03:46.740 --> 03:51.750
+Because remember it's two times two times two times two which I know is 16.
+
+03:51.750 --> 03:56.970
+Multiply that by three and then five squared we know is twenty five.
+
+03:57.000 --> 03:59.370
+Sixteen times three gives me forty eight.
+
+03:59.370 --> 04:03.690
+So I get 48 times 25 when I multiply 48 by 25.
+
+04:03.690 --> 04:05.640
+I get twelve hundred.
+
+04:05.700 --> 04:10.200
+So 1200 is my least common multiple of 30.
+
+04:10.200 --> 04:13.230
+75 and 80 30 75 and 80.
+
+04:13.350 --> 04:18.780
+All divide evenly into twelve hundred and twelve hundred is the smallest value for which that's the
+
+04:18.780 --> 04:22.270
+case for which 30 75 and 80 all go in evenly.
+
+04:22.410 --> 04:28.330
+So now let's look at another example where we have 15 A-squared B and 10 a B cubed.
+
+04:28.380 --> 04:34.500
+When we have variables like this they're already reduced as far as they can be so A-squared B and AB
+
+04:34.500 --> 04:36.870
+cubed are all going to remain just as they are.
+
+04:36.900 --> 04:40.330
+But we need to reduce the 15 and then 10 into their prime factors.
+
+04:40.470 --> 04:47.730
+So 15 is going to give us three and five both prime and 10 is going to give us two and five both prime.
+
+04:47.730 --> 04:54.890
+So now here for 15 A-squared B we have three times five times a squared times.
+
+04:54.900 --> 04:57.420
+B These are our prime factors essentially.
+
+04:57.420 --> 05:05.450
+And then for ten a B cubed we have 2 times five times a times b cubed and I remember now we want to
+
+05:05.450 --> 05:09.970
+take the largest value of each of our factors so we have here this to the first.
+
+05:09.970 --> 05:10.970
+There's no other 2.
+
+05:11.060 --> 05:12.600
+So we have to take that too.
+
+05:12.740 --> 05:16.680
+This is the only three here it's three of the first powers so we have to take the three.
+
+05:16.790 --> 05:19.350
+We have five of the first and five to the first in both.
+
+05:19.370 --> 05:24.860
+So we have to take five to the first and then we have A-squared an A because A-squared is greater we
+
+05:24.860 --> 05:26.880
+have to take A-squared instead of a.
+
+05:26.890 --> 05:28.660
+So a squared.
+
+05:28.730 --> 05:33.950
+And we have B and B cube so because B cubed is greater we have to take the B cubed instead of just the
+
+05:33.950 --> 05:34.320
+B.
+
+05:34.400 --> 05:40.060
+So then multiplying all of these together two times three gives us six six times five gives us 30.
+
+05:40.100 --> 05:44.870
+So we have 30 and then just a squared B cubed.
+
+05:44.930 --> 05:52.120
+So 30 A-squared be cute is the least common multiple of our two original values 15 a squared B and 10
+
+05:52.130 --> 05:53.430
+a B cubed.
+
+05:53.480 --> 05:58.160
+Both of these values will divide evenly into 30 A-squared be cubed.

@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00.220 --> 00:04.290
+In this video we're talking about how to find the least common multiple of a set of numbers and the
+
+00:04.290 --> 00:09.020
+least common multiple is just the number that both of the numbers we've been given will divide into
+
+00:09.030 --> 00:09.670
+evenly.
+
+00:09.720 --> 00:13.980
+So in other words if we just talk about multiples in general here we've been given two numbers 10 and
+
+00:13.980 --> 00:14.640
+15.
+
+00:14.850 --> 00:16.710
+Let's talk about the multiples of 10.
+
+00:16.740 --> 00:22.380
+Well when we talk about the multiples of a number what we mean is the multiples of 10 will be 10 times
+
+00:22.380 --> 00:22.950
+1.
+
+00:23.070 --> 00:32.010
+So 10 10 times to 20 10 times three 30 10 times four is 40.
+
+00:32.010 --> 00:39.330
+So in other words 10 20 30 and 40 are all multiples of 10 and I could keep going on to infinity 50 60
+
+00:39.330 --> 00:42.630
+70 80 90 100 110 120.
+
+00:42.630 --> 00:47.600
+Those are all multiples of 10 because 10 divides evenly into all of those numbers.
+
+00:47.610 --> 00:55.170
+I could also look at the multiples of 15 I could say 15 times one gives me 15 15 times two gives me
+
+00:55.170 --> 01:04.560
+30 15 times three gives me 45 15 times four gives me 60 and I could keep going same thing.
+
+01:04.560 --> 01:09.150
+So 15 30 45 and 60 are all multiples of 15.
+
+01:09.180 --> 01:13.860
+So then when I say I want to find the least common multiple of two numbers for example I want to find
+
+01:13.860 --> 01:19.200
+the least common multiple of 10 and 15 I'm looking for the smallest number that matches between these
+
+01:19.200 --> 01:20.030
+two sets.
+
+01:20.130 --> 01:28.350
+And what I can see is that that's going to be 30 30 is the smallest number that 10 and 15 divide into
+
+01:28.350 --> 01:35.040
+evenly because 30 is a multiple of both 10 and 15 and there's no number that's smaller than 30 the 10
+
+01:35.040 --> 01:42.750
+and 15 both go into evenly 10 goes into 10 and 20 evenly but 15 doesn't 15 goes into 15 evenly but 10
+
+01:42.750 --> 01:44.580
+doesn't go into 15 evenly.
+
+01:44.670 --> 01:46.830
+So 30 is the least common multiple.
+
+01:46.860 --> 01:53.990
+If I kept going here with 10 I could say ten times five is 50 and ten times six is 60.
+
+01:54.060 --> 02:00.960
+And then I could say that 60 is also a multiple of 10 and 15 because it's in both sets.
+
+02:01.020 --> 02:05.230
+But it's not the least common multiple because 30 is smaller than 60.
+
+02:05.340 --> 02:09.750
+So 30 is going to be my least common multiple of 10 and 15.
+
+02:09.750 --> 02:13.560
+Now what happens when you have a set of numbers that includes more than just two numbers and maybe it's
+
+02:13.560 --> 02:18.030
+going to be really difficult to write out all of the multiples of each number until you find one that
+
+02:18.030 --> 02:20.180
+matches across all three sets.
+
+02:20.190 --> 02:24.440
+Here we need to find the least common multiple of 24 10 and 15.
+
+02:24.480 --> 02:25.840
+So how do we do that.
+
+02:25.860 --> 02:30.090
+Well the easiest way to do it is to factor all three numbers into their prime factors.
+
+02:30.100 --> 02:32.540
+In other words we're going to do some prime factorization here.
+
+02:32.580 --> 02:37.830
+Remember with prime factorization if we have an even number we know we can divide 2 into that number
+
+02:37.830 --> 02:41.640
+so we'll get 2 and 12 because two times 12 is 24.
+
+02:41.640 --> 02:46.170
+Remember also that a prime number is a number that's divisible only by 1 and itself.
+
+02:46.200 --> 02:50.250
+So two is a prime number because the only factors of 2 are 1 and 2.
+
+02:50.250 --> 02:56.210
+In other words 1 and the number itself 12 is not a prime number because I can divide it by 1 and 12
+
+02:56.210 --> 02:56.960
+1 in itself.
+
+02:56.970 --> 03:00.310
+But I can also divide it by 3 and 4 and 6.
+
+03:00.330 --> 03:06.480
+So I want to divide this again by two to get 2 and 6 and 2 is a prime number but 6 isn't so I need to
+
+03:06.480 --> 03:09.550
+divide 6 by 2 again and I get two and three.
+
+03:09.720 --> 03:11.700
+So two to two and three.
+
+03:11.700 --> 03:13.560
+Those are all prime numbers here.
+
+03:13.800 --> 03:17.100
+So I know that I'm done with my prime factorization.
+
+03:17.220 --> 03:23.120
+And now I just need to go ahead and write these out two times two times two times three.
+
+03:23.130 --> 03:25.430
+And this is the product of primes of 24.
+
+03:25.440 --> 03:27.810
+I need to do the same thing for 10 and 15.
+
+03:27.840 --> 03:33.450
+So I can divide 10 into two and five two and five are both prime numbers.
+
+03:33.570 --> 03:39.570
+So I can't go any further with my prime factorization and my product primes then is two times five for
+
+03:39.570 --> 03:40.260
+15.
+
+03:40.260 --> 03:45.060
+Divide that into three and five because three times five is 15.
+
+03:45.060 --> 03:47.430
+Three and five are both prime numbers.
+
+03:47.430 --> 03:49.630
+So I know I'm down with my prime factorization.
+
+03:49.740 --> 03:52.290
+I'm a product of primes is three and five.
+
+03:52.290 --> 03:57.090
+Now the only number for which I have a repeating factors and my product of primes is this 24 here I
+
+03:57.090 --> 03:58.290
+have three factors of two.
+
+03:58.290 --> 04:02.400
+So I want to rewrite this as two cubed times three.
+
+04:02.400 --> 04:07.650
+So here I have three factors of two and one factor of three here I have one factor of two and one factor
+
+04:07.650 --> 04:08.270
+of five.
+
+04:08.400 --> 04:11.310
+And here I have one factor of three and one factor of five.
+
+04:11.310 --> 04:16.200
+So when I want to find the least common multiple Now that I have my prime factors what I need to do
+
+04:16.530 --> 04:18.760
+is take the largest number of each factor.
+
+04:18.760 --> 04:23.830
+So what I see first of all is that I have factors of two and I have factors of two.
+
+04:23.880 --> 04:27.410
+I have factors of three and factors of three.
+
+04:27.810 --> 04:31.420
+And I have factors of five and factors of five.
+
+04:31.440 --> 04:32.910
+So I have to look at two.
+
+04:32.970 --> 04:35.400
+I have to look at three and I have to look at five.
+
+04:35.430 --> 04:40.140
+So first looking at two what's the largest number of factors that I have for two on this number I have
+
+04:40.140 --> 04:42.120
+three factors of two in this number.
+
+04:42.120 --> 04:43.760
+I have one factor of two.
+
+04:43.800 --> 04:46.880
+I have to take the larger number of factors of two.
+
+04:46.920 --> 04:49.250
+So I have to take three factors of two.
+
+04:49.260 --> 04:51.000
+So I'll say two cubed.
+
+04:51.000 --> 04:52.630
+Now I look at my factors of three.
+
+04:52.680 --> 04:55.710
+I have one factor of three and I have one factor of three.
+
+04:55.710 --> 05:00.340
+Those are equal so I just have to take one factor of three and then I have to look my factors of five
+
+05:00.460 --> 05:03.070
+I have one factor of five and one factor of five.
+
+05:03.070 --> 05:08.830
+So I have to take one factor of five and now I can just multiply all of these together to get my least
+
+05:08.830 --> 05:09.730
+common multiple.
+
+05:09.730 --> 05:14.550
+So I'm going to say two cubed or two times two times two that's going to give me eight.
+
+05:14.650 --> 05:16.870
+Three times five is going to give me 15.
+
+05:16.870 --> 05:22.160
+So I'm going to say eight times 15 eight times 15 is going to get me one hundred twenty.
+
+05:22.210 --> 05:30.220
+So 120 is going to be the least common multiple of 24 10 and 15 and I can prove to myself that 120 is
+
+05:30.220 --> 05:35.320
+a multiple of 24 10 and 15 by dividing 120 by all three of these numbers.
+
+05:35.320 --> 05:41.740
+So if I divide 120 by 24 I get five if I divide 120 by 10.
+
+05:41.860 --> 05:45.600
+I get 12 if I divide 120 by 15.
+
+05:45.640 --> 05:46.610
+I get eight.
+
+05:46.750 --> 05:51.430
+So I know that 24 10 and 15 all go evenly into 120.
+
+05:51.430 --> 05:56.560
+That helps me double check at least that I do have a multiple of three numbers I started with but this
+
+05:56.560 --> 06:01.320
+is the method you want to use to find the least common multiple set of numbers like this one.
